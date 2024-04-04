@@ -1,7 +1,7 @@
 # Immunizations Flu Shots 2022
 
 ## Objectives
-- Come up with flu shots dashboard for 2022 that does the following
+### Come up with flu shots dashboard for 2022 that does the following
 <ol>
   <li>Total % of patients getting flu shots stratified by </li>
   <li>Running total of flu shots over the course of 2022</li>
