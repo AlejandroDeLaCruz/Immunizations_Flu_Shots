@@ -3,6 +3,7 @@
 Skills applied: JOIN, Window Functions, Common Table Expressions (CTE), Date Functions, and CASE Statement
 
 ## SQL Query
+<img src = "Snap.png"></img>
 
 ## Visualizations
 
