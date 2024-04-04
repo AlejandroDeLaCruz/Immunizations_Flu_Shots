@@ -1,5 +1,8 @@
 # Immunizations Flu Shots 2022
 
+## Introduction
+The dataset used in this analysis contains healthcare data from the state of Massachusetts, specifically focusing on selected counties. The objective is to identify patients aged 6 years or older who are eligible to receive flu shots and to determine how many of these patients have received their flu shot immunization in the year 2022. The analysis aims to provide insights into flu vaccination rates among eligible patients within these counties, aiding clinicians to ensure follow-up with active patients.
+
 ## Objectives
 ### Come up with flu shots dashboard for 2022 that does the following:
 <ol>
