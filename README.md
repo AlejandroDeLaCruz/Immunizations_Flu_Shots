@@ -32,6 +32,8 @@ Apply the criteria to filter the active patients from the dataset.
 ### Identifying Latest Flu Shot Date:
 - Extract the latest flu shot date for each patient in 2022 based on the ranking.
 
+In the final step, the query combines patient details with flu shot information. Additionally, a flag is included to indicate whether each patient received the flu shot in 2022. This merged dataset allows for a thorough analysis of flu shot uptake among eligible patients.
+
 ## Visualizations
 <img src = "Immunization Dashboard.png"></img>
 ### Dashboard Components
@@ -58,6 +60,3 @@ Apply the criteria to filter the active patients from the dataset.
 - A numerical representation of the total number of flu shots administered in 2022
 
 These visualizations are created in Tableau and can be found here: <a href = "https://public.tableau.com/app/profile/alejandro.de.la.cruz5286/viz/ImmunizationsFluShots2022_16969790052040/Dashboard1" target = "_blank">Immunizations Flu Shots 2022 Dashboard</a>
-
-## Results
-
