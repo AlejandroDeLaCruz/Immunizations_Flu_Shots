@@ -37,7 +37,7 @@ Apply the criteria to filter the active patients from the dataset.
 ### Dashboard Components
 
 #### Flu Shot by Age (%):
-- A bar chart showing the percentage of patients who have received flu shots in 2022, segmented by age groups (e.g., 6-10 years, 11-20 years, etc.)
+- A bar chart showing the percentage of patients who have received flu shots in 2022, segmented by age groups (e.g., 0-17 years, 18-34 years, etc.)
 
 #### Flu Shot by Race (%):
 - A bar chart showing the percentage of patients who have received flu shots in 2022 based on racial categories (e.g., White, Black, Hispanic, etc.)
