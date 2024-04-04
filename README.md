@@ -1,5 +1,14 @@
 # Immunizations Flu Shots 2022
 
+## Objectives
+- Come up with flu shots dashboard for 2022 that does the following
+<ol>
+  <li>Total % of patients getting flu shots stratified by </li>
+  <li>Running total of flu shots over the course of 2022</li>
+  <li>Total number of flu shots given in 2022</li>
+  <li>A list of Patients that show whether or not they received the flu shots</li>
+</ol>
+
 Skills applied: JOIN, Window Functions, Common Table Expressions (CTE), Date Functions, and CASE Statement
 
 ## SQL Query
