@@ -1,6 +1,6 @@
 # Immunizations Flu Shots 2022
 
-Skills applied: JOIN, Window Functions, Common Table Expressions (CTE), Date Functions, String Functions, and Data Conversion
+Skills applied: JOIN, Window Functions, Common Table Expressions (CTE), Date Functions, and CASE Statement
 
 ## SQL Query
 
