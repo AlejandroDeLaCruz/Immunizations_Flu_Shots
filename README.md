@@ -35,6 +35,28 @@ Apply the criteria to filter the active patients from the dataset.
 ## Visualizations
 <img src = "Immunization Dashboard.png"></img>
 ### Dashboard Components
+
+### Flu Shot by Age (%):
+A bar chart showing the percentage of patients who have received flu shots in 2022, segmented by age groups (e.g., 6-10 years, 11-20 years, etc.)
+
+### Flu Shot by Race (%):
+A bar chart showing the percentage of patients who have received flu shots in 2022 based on racial categories (e.g., White, Black, Hispanic, etc.)
+
+### Flu Shot by County (%):
+A map illustrating the percentage of flu shot recipients in 2022 across different counties in Massachusetts
+
+### Flu Shot List:
+A tabular representation of patients who have received flu shots in 2022, including patient name, age, race, and a color to represent whether or not the patient received the flu shot
+
+### Running Sum of Flu Shots 2022:
+A line chart tracking the cumulative number of flu shots administered in 2022 over time, providing a visual trend of vaccination efforts
+
+### Total Compliance (%):
+Indicating the overall compliance rate of flu shots among eligible patients in 2022
+
+### Total Flu Shots Given:
+A numerical representation of the total number of flu shots administered in 2022
+
 These visualizations are created in Tableau and can be found here: <a href = "https://public.tableau.com/app/profile/alejandro.de.la.cruz5286/viz/ImmunizationsFluShots2022_16969790052040/Dashboard1" target = "_blank">Immunizations Flu Shots 2022 Dashboard</a>
 
 ## Results
